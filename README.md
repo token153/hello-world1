@@ -1,2 +1,2 @@
 # hello-world1
-the repository not progect
+the repository not progect and not readme
